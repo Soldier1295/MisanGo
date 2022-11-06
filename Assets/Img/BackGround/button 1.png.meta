@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 988e080b98f494448bd19f7ea265bbe1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button 1_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 400
+        width: 360
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da5224f252d1f43a81e18f1b618baf
+      internalID: 827685793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button 1_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b19565ba52b5d449c379996485d0bd
+      internalID: 430455941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button 1_31
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 30
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde4eb766b184248a623017f0722864
+      internalID: 1616678507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button 1_0
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 28
+        width: 360
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb5e672c379ea48b7baa5cc63e2d4d
+      internalID: 1225733893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      button 1_4: 1666211063
+      button 1_10: 1027593030
+      button 1_28: 896825700
+      button 1_45: -1600890467
+      button 1_49: -1701301796
+      button 1_30: -2055076395
+      button 1_1: 778209580
+      button 1_7: 2111151114
+      button 1_19: -306667889
+      button 1_36: -851137826
+      button 1_12: -1479682346
+      button 1_20: 1213747904
+      button 1_32: 1658431820
+      button 1_51: -1515240822
+      button 1_52: -1218545930
+      button 1_9: -2098922455
+      button 1_34: -354275394
+      button 1_29: 430455941
+      button 1_13: 497781414
+      button 1_23: 1780954149
+      button 1_54: 1065945872
+      button 1_0: 1225733893
+      button 1_17: -2077129169
+      button 1_26: 1944869303
+      button 1_42: -1921042878
+      button 1_40: -2040771635
+      button 1_2: -176157057
+      button 1_47: 1024419143
+      button 1_43: 1084827917
+      button 1_21: -265078205
+      button 1_14: -1711901851
+      button 1_18: -2116883964
+      button 1_22: 1395847477
+      button 1_24: 666160446
+      button 1_39: -662710299
+      button 1_46: -583641104
+      button 1_35: -1487877579
+      button 1_27: 2105154221
+      button 1_3: -1396790260
+      button 1_53: -369764860
+      button 1_16: 1900929338
+      button 1_25: 2030358376
+      button 1_6: 827685793
+      button 1_44: 1768664085
+      button 1_31: 1616678507
+      button 1_5: -1164499895
+      button 1_48: -1244471534
+      button 1_50: 1302490741
+      button 1_8: 1993771937
+      button 1_33: -1659044859
+      button 1_38: -1211364241
+      button 1_11: -426103317
+      button 1_41: 754542599
+      button 1_37: -797210547
+      button 1_15: 365834629
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

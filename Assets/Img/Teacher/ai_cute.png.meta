@@ -1,0 +1,3940 @@
+fileFormatVersion: 2
+guid: 7aba435cf8070b442aa280e3b6518291
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 6644, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ai_cute_0
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 586
+        width: 169
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a018f1b10625c74c9c146af2f518f43
+      internalID: 993324533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_1
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 548
+        width: 152
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f6b19d3345944885c8718f3603ef1
+      internalID: 842491417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_2
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 737
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a88841361e124488ab36be792a71a9
+      internalID: -1510088582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_3
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 760
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fa32cc1fe97f341a3f1c839569dbe0
+      internalID: 231869264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_4
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 760
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4697c479394c4081724062ef1f6b4
+      internalID: -273485386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_5
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 737
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b09693b11a9d469f8e8888af70a81
+      internalID: -927923077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_6
+      rect:
+        serializedVersion: 2
+        x: 6407
+        y: 702
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4f5370feca133469b76bd96dddc000
+      internalID: -1544857449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_7
+      rect:
+        serializedVersion: 2
+        x: 7002
+        y: 748
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130aca805f65eb341a9f7d63dd2373c4
+      internalID: -957492888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_8
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 739
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e3e7390eac9544b8e65d35fab8339
+      internalID: -1918334010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_9
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 705
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116073b65a48dc42a72002e42878bd4
+      internalID: 648816692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_10
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 726
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34fe5f1d0095ed42aeaf548f610e2e0
+      internalID: -1033626298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_11
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 716
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21833095c862cc8489f7621474b772a9
+      internalID: 745148793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_12
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 702
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8e6d33dff6894990446576267a2c3
+      internalID: 852306216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_13
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 726
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13243c5b8d211ac4b99841ea006fd200
+      internalID: -690627918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_14
+      rect:
+        serializedVersion: 2
+        x: 6875
+        y: 716
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b730589f34338504cba6c1ecd6739536
+      internalID: -487205667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_15
+      rect:
+        serializedVersion: 2
+        x: 7005
+        y: 705
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a736c090fcac1e46b36ac2ba287b606
+      internalID: -1524447999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_16
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 607
+        width: 135
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564ac05cf1246941ad8a81d19975994
+      internalID: -1829786113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_17
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 717
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e02f470afd21b4493ac5f965d2ac6d
+      internalID: 1027185470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_18
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 607
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ca01bb4b12b69439f0719d6512b523
+      internalID: 116840686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_19
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 717
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21efee539b407c9469bc2cd930a3bc3c
+      internalID: -1381494994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_20
+      rect:
+        serializedVersion: 2
+        x: 5887
+        y: 716
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adcf5ab929245446a662766c3b646a3
+      internalID: 51436704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_21
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 716
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9b54c3e1187cc48ba3a4f3e6b1e0d2
+      internalID: 1651159517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_22
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 696
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ce290f078595146a2b1d6a5457f56e
+      internalID: 765416550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_23
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 696
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d96ca0d4e4322f4e995358b45171fa3
+      internalID: -1718332095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_24
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 696
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cce297a0249091438fac12c8d433834
+      internalID: 1396353929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_25
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 699
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8959b594e1bf4e90d72ca6727dd57
+      internalID: -234487893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_26
+      rect:
+        serializedVersion: 2
+        x: 5855
+        y: 687
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdebfdd18b2665844a833a45a2bbda94
+      internalID: -135488519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_27
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 696
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b9aa6b2bee5fd499fb03cd219d9b67
+      internalID: 569423403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_28
+      rect:
+        serializedVersion: 2
+        x: 7058
+        y: 684
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38706a3dcf8164b48bb9e58521c7dc1d
+      internalID: 1803635305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 575
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1248c627a0c4c44b2976da8d0344c1
+      internalID: 725049768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_30
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 675
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ce2bcdc7b96b4d8f860817724d065
+      internalID: 251895573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_31
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 675
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e2a63676a700409443e1edcf060fe
+      internalID: 21068046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_32
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 0
+        width: 499
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d6f1b067a169438ad33338b29d016
+      internalID: -1404385072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_33
+      rect:
+        serializedVersion: 2
+        x: 5441
+        y: 5
+        width: 509
+        height: 691
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8b98050c7e9948aca050eac1e06e7
+      internalID: -478344210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_34
+      rect:
+        serializedVersion: 2
+        x: 6045
+        y: 0
+        width: 499
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09999a53aecae499850ed1d4afabe3
+      internalID: 1360657343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_35
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 494
+        height: 763
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a35213222bfd4cb199663e21e74b8
+      internalID: 1768684854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_36
+      rect:
+        serializedVersion: 2
+        x: 6787
+        y: 645
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6386edb5ef7e4291cf343bbc9af83
+      internalID: -1692966587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_37
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 550
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f625ed6f83191844e8f58c3e6921b79d
+      internalID: 1748454923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_38
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 547
+        width: 134
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e4d0041a46d64cb0ce166486aaa17
+      internalID: 505980647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_39
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 654
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9016b5ac0ec72347a20796d35d45f2e
+      internalID: 617452478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_40
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 547
+        width: 119
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63117d10c42a9884a98355d07eda7842
+      internalID: -1895765385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_41
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 612
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9080fe6f3e11f9345bf7294e69ca9b60
+      internalID: 1024365241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 591
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478b8fdb14836440b8f0e03b9f33066
+      internalID: 1446839618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_43
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 591
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682804345f15ec3488d656690c010c4a
+      internalID: 1495881163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_44
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 570
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2e22e8f2671d84fbbf2c28a7b1c74e
+      internalID: 2114199727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_45
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 570
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c303097bbcf048a19be817f315797
+      internalID: 943120872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_46
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 570
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5239a72afbdd04fbfe8c976f66f371
+      internalID: -2122502750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_47
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 570
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ab1c35a3b9cb42be5390cb8721368
+      internalID: -694193449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_48
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 570
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5cf808eed847409ff0c11d4135d25
+      internalID: -1233456768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1b4823998e2ad4380c0aaa9272a0c4
+      internalID: -1678501471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e151e07a342e240b89b7a5b85523cf
+      internalID: -244615989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_51
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 549
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d324b1dcad5e4daf84e096a50b8cf
+      internalID: 576301526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_52
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 552
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ea768cc8fdf546b22c6579b21cc27
+      internalID: -1205414563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_53
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369c8e74e560944d8b1d8f0d8e98f16
+      internalID: -1243420123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_54
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e137e607ad9154a986173e054f59e6
+      internalID: -1864064302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_55
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb806ef47a501b34ab8a4c0153f8e07b
+      internalID: 1625203326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_56
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b488aa45430b6947b7db0f59e5a78fe
+      internalID: 995563905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_57
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 549
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5971780bf71742b6b8cf1e0b46e6e
+      internalID: -1369787047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_58
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 549
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3ecfeb0df40be4f8f5032525846452
+      internalID: -698464030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_59
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4e6c299749c64b9151660452620fd
+      internalID: 652454902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_60
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887ed98e3502714a83a92eeab9b6dc3
+      internalID: 1118655230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_61
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 549
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8c9fa84c7d3a47b23b7a8e2313733
+      internalID: -838916602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_62
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 549
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c39209adf8b14d886f9e083cc78e7
+      internalID: 465175041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_63
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 549
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3148b97bd9e93aa46927c9eeb040ce43
+      internalID: -1954135313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_64
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 549
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b790c865083044581ade518c775062
+      internalID: -279527322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 5
+        width: 509
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2385f36cfb837849bb5b412b2b7eb8e
+      internalID: -118219122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_66
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 5
+        width: 499
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a423105e1a35494086712db3c3bd7c2
+      internalID: -401995008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_67
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 502
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b818390d4e962d4abf5f91e3f0b0d6a
+      internalID: -317430095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_68
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 5
+        width: 509
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d600725166fe5649acb5ff31e47cb68
+      internalID: -1642099405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_69
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 528
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4957aa97afe33b4bb5c5f67bc734de7
+      internalID: 1183589154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_70
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 5
+        width: 499
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c977ad0b1c1f4ce4793214e88d6e4cfc
+      internalID: 1311677470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_71
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 528
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07a8689f5f4dec48a0032a3339dd5f3
+      internalID: -588129170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_72
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 528
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5b4c2f883579649a9ddd632ba90fc9
+      internalID: 191254953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_73
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 0
+        width: 499
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d878453f94841540ae14660225285c0
+      internalID: 967182332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_74
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 5
+        width: 499
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030e5bb54e00d043a931ddc4533c16d
+      internalID: 2071628132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_75
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 528
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dfb8997e081d144a64f3d9071780a3
+      internalID: -1562524326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_76
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 528
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be92caae64e9b4586c7da1144c190f
+      internalID: 865363824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_77
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 2
+        width: 501
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ef21a6217be9841a29767ca275008c
+      internalID: -1510631271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_78
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 443
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2827b6dde95884894f47e04377c01b
+      internalID: 1534594656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_79
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 443
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb92b769ea34654e971140840b9e9cb
+      internalID: 456463326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_80
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 443
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f270ddc03719a41a02e474a5fab132
+      internalID: -469015913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_81
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 443
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ad0bfe4448e84ea626cece59f3be7
+      internalID: 588291244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_82
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 443
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a09b56425b5bf46a5c17be94cde2ef
+      internalID: 79477952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_83
+      rect:
+        serializedVersion: 2
+        x: 6539
+        y: 443
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3d5de436a6fb4c889f894c0af8ed7
+      internalID: 943753474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_84
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 422
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02589c55cca9647a144fbd3ca555b1
+      internalID: -842971982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_85
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 422
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e3215a16c8d74aa50d3466e67fe1e
+      internalID: -1486360323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_86
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 422
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e215e7a503b14f84d91fbe7c2bddb763
+      internalID: -302798811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_87
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 422
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4725bcf12dc1d5a4384793906a73f23b
+      internalID: -1551428289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_88
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 422
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ddf3f95a49594a97f1c5d8bc61f54
+      internalID: 1942792549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_89
+      rect:
+        serializedVersion: 2
+        x: 7151
+        y: 422
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d1054ccb65e464fb561b64f3ab42ad
+      internalID: -1921462211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_90
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 317
+        width: 21
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5142897132de3fc4e90e4d2be209e6a5
+      internalID: 1796922026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_91
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd877dc96e631458fa3205857ccc30
+      internalID: 132244960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_92
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41aef20a71f2214e9e36b1a617672a1
+      internalID: -467011700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_93
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 317
+        width: 21
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5c27323fd0e504eb443517cd749068
+      internalID: 1241701890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_94
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 380
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b40487ab334fdb468c0eb7274df6a83
+      internalID: 2102040150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_95
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 359
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919ad09741a5694f88465bf00f897cd
+      internalID: 686588704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_96
+      rect:
+        serializedVersion: 2
+        x: 4831
+        y: 380
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157eecb4ef7eb8f4fa8646ab8ab88aed
+      internalID: 1555462560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_97
+      rect:
+        serializedVersion: 2
+        x: 6033
+        y: 380
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce437d56b126dc44b068501b1235c3e
+      internalID: 1899386842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_98
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 359
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1427760ab1b14390db15013211153
+      internalID: -1642980467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_99
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 359
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa47d937af0294982a37ea34cca047
+      internalID: -2007413850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_100
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 359
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd9d1ed076857947a3b91e50c728fd6
+      internalID: 1280349036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_101
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 359
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2313d3fc07093274c87360b1521bb043
+      internalID: 834480899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_102
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 359
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8aae88c48ba55408d37cf0285e722e
+      internalID: -514652088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_103
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 359
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e64497122c6a0b42b6981cc889c6304
+      internalID: 904441152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_104
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 338
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a64e4a27094294a9a0f5ae643332e5
+      internalID: 393412075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_105
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 338
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ec80f3e6838f94d81cb1bb93c0d5a6
+      internalID: 1059538094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_106
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 359
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbe6f548209805488ce6661061d971e
+      internalID: -1642913693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_107
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 359
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3abc7005eb35f41b5f4add0a868cba
+      internalID: 1567542491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_108
+      rect:
+        serializedVersion: 2
+        x: 7151
+        y: 359
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1353bfda86eb544931f99edb495e2e
+      internalID: -96773333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_109
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 338
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89f14219ee23c46bd0c3ebcd29c1a8
+      internalID: 1322797040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_110
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 296
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ecd92b26c695247ac3c17ed8727f3b
+      internalID: 2053722861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_111
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f389b8f4e5b64fbd668e097bde83b
+      internalID: 2055162342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_112
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 274
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddc465a2226d7640bc779a5865c9cac
+      internalID: -1627473837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_113
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c522a818fb97e4cb14c1f9d7fc1c7a
+      internalID: 1575116377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_114
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 296
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe33f1bbed4e274bb10bc9a9681b28a
+      internalID: -823676288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_115
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 296
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92923bb308147f149b493d1f9e81eee6
+      internalID: 2004158433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_116
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 169
+        width: 21
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a145db16a49b44fb1f5f4dbd635ab0
+      internalID: 814955761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_117
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 148
+        width: 21
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cefa1966c8fef47a8bd3f5d000b4a7
+      internalID: -1931445121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_118
+      rect:
+        serializedVersion: 2
+        x: 5970
+        y: 296
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee881bb18a6794a9f579a6f1f3ff3d
+      internalID: 667075774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_119
+      rect:
+        serializedVersion: 2
+        x: 7172
+        y: 169
+        width: 21
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db55e4c86c6fe40b38ae20096bccce
+      internalID: -505137179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_120
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 274
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c313dc3358afd40850399277c5f90f
+      internalID: 490061277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_121
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3ad0a4aa9a454f9f12f836ebf335d
+      internalID: 1125293644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_122
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 274
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e68adcefb2c214193392e84197374f
+      internalID: 1531450209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa46efb5349af438345eb4e89df3b0
+      internalID: 1186964799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_124
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 211
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422caaf9cf2106240a2598edbe23f3de
+      internalID: -653394589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_125
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 169
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf4466b023d364398fe6f19ea231f5
+      internalID: 1533747173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_126
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 211
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7322f352ab5e0b4e92a3715fc4ecda2
+      internalID: -1897275731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_127
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 211
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950fd818bfec75d49b3f2dcba2e108be
+      internalID: 1414956921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_128
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596c471eb193e741ab6398651381deb
+      internalID: -1380554927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_129
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 211
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c209a791afe94a243b0b2c6fd71dd2a5
+      internalID: -1585301660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_130
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 169
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566bdea9803b3164397e9373ea19dbd0
+      internalID: -599635360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_131
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 169
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933defa5e7a74424e98a63cfab06533d
+      internalID: 2096762487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_132
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 169
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8dfa39b38c4147a88f0b3fa70b69f
+      internalID: 530485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_133
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 148
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073c40847473db4da8ad46c29d5bfb2
+      internalID: 745911835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_134
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 148
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b14befe4a180e348bc3bf625fe276fc
+      internalID: -226891421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_135
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b0d5438aa66934ca60e434ed5e10fe
+      internalID: -1362661196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_136
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c89df8dc666ef4fa4a44cee2ce4e3a
+      internalID: -2097007056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_137
+      rect:
+        serializedVersion: 2
+        x: 5970
+        y: 148
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dbc628a134b234782f005e86b95dae
+      internalID: 727702105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_138
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 127
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b0355f3ce92f4d99fa4bd023ed449
+      internalID: -1497077217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_139
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 127
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa82acabc78e0428c1a9c1f40aa3a2
+      internalID: -2082558292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_140
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 127
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142daf7907a02f48afc72253fef6e9b
+      internalID: 709109913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_141
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 127
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920158c391ce1d449763baf45c11879
+      internalID: -212488580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_142
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 127
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab6efcdbf39ed499872104f2e30de5
+      internalID: -1364481591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_143
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 127
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77c7c739deb08429b8548b8e0256a4
+      internalID: -203394923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_144
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 127
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773e9573a995a664385d1e36c0f5a0ae
+      internalID: -1850339766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_145
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 127
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4913ab7b37f2c5d42adf497d81b34cf4
+      internalID: -680186867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_146
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 127
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af785e41f6af06e479e9e774ab11cfcf
+      internalID: 1559329516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_147
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 106
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a300267c25e7fbc4b8391aa269d15db2
+      internalID: 490370233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_148
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 106
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70c8a99f7b44b4ca5d9f47f4dcdfb0
+      internalID: 1164835739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_149
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 106
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08d8f869eb84c47b2112858119019b
+      internalID: -2076906695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_150
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 106
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ceecf328d72f4bb8a4553b8a05a46
+      internalID: 255372375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_151
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 106
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd85ba335cc0049bf91b5783584874
+      internalID: -1160906365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_152
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 106
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728c3efd1557b44d9cd6e1b6c49e364
+      internalID: 873043605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_153
+      rect:
+        serializedVersion: 2
+        x: 6033
+        y: 106
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df074e51c627dd4fb48df9538269379
+      internalID: -781444230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_154
+      rect:
+        serializedVersion: 2
+        x: 7151
+        y: 106
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675c19c3a9d5944ebeeaa10ea36282a
+      internalID: -1961269164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_155
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 85
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a1cbe0bb550b4b81d0cbb52a4fe1c
+      internalID: 1411635237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_156
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 85
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2404902f9a883fd4aa7083a899590807
+      internalID: 993780544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_157
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 85
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc9c60a352a8a4b88c9e4b191be0d2
+      internalID: -82855312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_158
+      rect:
+        serializedVersion: 2
+        x: 6539
+        y: 85
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5b258b4ffb2ad45be322aa055e7051
+      internalID: 1987043830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_159
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c270e1b4bcdf54288be2f6489e0967
+      internalID: 710671506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_160
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e011e028ffcd94d99a0206b162c556
+      internalID: -1291106534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_161
+      rect:
+        serializedVersion: 2
+        x: 7130
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2f2a03bf996243841c82290ae53da
+      internalID: 1858647772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_162
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89adbe64e07a1a34890cb4791be8b533
+      internalID: 1551430623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_163
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9cfa8532e74e4791d267085bbe5b6
+      internalID: -1748508616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_164
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0b6b3144fd0354fa1bb489f3ea58e7
+      internalID: -79885867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_165
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4246394483b7d48a88b866af1c9a32
+      internalID: 265307259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_166
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a37aa5bcb393b4680a5aae4ba1a663
+      internalID: 821139976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_167
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b22cfaeaffa44e9296132ef29e71b
+      internalID: -952065955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_168
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1223184f29861954a9863a39f45740af
+      internalID: 1124341338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_169
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90119f3f606bbef42ab7ed370c1a9737
+      internalID: 1664559537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_170
+      rect:
+        serializedVersion: 2
+        x: 5527
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28067583b998dd946b1e55a10c4cccf7
+      internalID: -103129153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_171
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5da5abab00d54fb1db447fb5656ae
+      internalID: -748868019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_cute_172
+      rect:
+        serializedVersion: 2
+        x: 6117
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542dd67367d6f6943a17bd12686b28f4
+      internalID: 327441806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ai_cute_58: -698464030
+      ai_cute_80: -469015913
+      ai_cute_2: -1510088582
+      ai_cute_132: 530485659
+      ai_cute_14: -487205667
+      ai_cute_32: -1404385072
+      ai_cute_96: 1555462560
+      ai_cute_6: -1544857449
+      ai_cute_97: 1899386842
+      ai_cute_136: -2097007056
+      ai_cute_160: -1291106534
+      ai_cute_15: -1524447999
+      ai_cute_153: -781444230
+      ai_cute_18: 116840686
+      ai_cute_27: 569423403
+      ai_cute_67: -317430095
+      ai_cute_31: 21068046
+      ai_cute_38: 505980647
+      ai_cute_103: 904441152
+      ai_cute_170: -103129153
+      ai_cute_92: -467011700
+      ai_cute_124: -653394589
+      ai_cute_0: 993324533
+      ai_cute_10: -1033626298
+      ai_cute_122: 1531450209
+      ai_cute_12: 852306216
+      ai_cute_87: -1551428289
+      ai_cute_44: 2114199727
+      ai_cute_34: 1360657343
+      ai_cute_117: -1931445121
+      ai_cute_46: -2122502750
+      ai_cute_49: -1678501471
+      ai_cute_82: 79477952
+      ai_cute_99: -2007413850
+      ai_cute_42: 1446839618
+      ai_cute_143: -203394923
+      ai_cute_152: 873043605
+      ai_cute_30: 251895573
+      ai_cute_149: -2076906695
+      ai_cute_134: -226891421
+      ai_cute_165: 265307259
+      ai_cute_53: -1243420123
+      ai_cute_43: 1495881163
+      ai_cute_17: 1027185470
+      ai_cute_141: -212488580
+      ai_cute_54: -1864064302
+      ai_cute_9: 648816692
+      ai_cute_109: 1322797040
+      ai_cute_148: 1164835739
+      ai_cute_29: 725049768
+      ai_cute_125: 1533747173
+      ai_cute_51: 576301526
+      ai_cute_76: 865363824
+      ai_cute_89: -1921462211
+      ai_cute_88: 1942792549
+      ai_cute_16: -1829786113
+      ai_cute_36: -1692966587
+      ai_cute_111: 2055162342
+      ai_cute_151: -1160906365
+      ai_cute_19: -1381494994
+      ai_cute_108: -96773333
+      ai_cute_120: 490061277
+      ai_cute_105: 1059538094
+      ai_cute_8: -1918334010
+      ai_cute_127: 1414956921
+      ai_cute_21: 1651159517
+      ai_cute_72: 191254953
+      ai_cute_13: -690627918
+      ai_cute_33: -478344210
+      ai_cute_169: 1664559537
+      ai_cute_35: 1768684854
+      ai_cute_81: 588291244
+      ai_cute_115: 2004158433
+      ai_cute_102: -514652088
+      ai_cute_142: -1364481591
+      ai_cute_22: 765416550
+      ai_cute_135: -1362661196
+      ai_cute_164: -79885867
+      ai_cute_66: -401995008
+      ai_cute_154: -1961269164
+      ai_cute_24: 1396353929
+      ai_cute_119: -505137179
+      ai_cute_40: -1895765385
+      ai_cute_146: 1559329516
+      ai_cute_168: 1124341338
+      ai_cute_74: 2071628132
+      ai_cute_63: -1954135313
+      ai_cute_138: -1497077217
+      ai_cute_79: 456463326
+      ai_cute_133: 745911835
+      ai_cute_52: -1205414563
+      ai_cute_85: -1486360323
+      ai_cute_4: -273485386
+      ai_cute_98: -1642980467
+      ai_cute_144: -1850339766
+      ai_cute_1: 842491417
+      ai_cute_159: 710671506
+      ai_cute_131: 2096762487
+      ai_cute_59: 652454902
+      ai_cute_77: -1510631271
+      ai_cute_106: -1642913693
+      ai_cute_107: 1567542491
+      ai_cute_114: -823676288
+      ai_cute_26: -135488519
+      ai_cute_110: 2053722861
+      ai_cute_5: -927923077
+      ai_cute_94: 2102040150
+      ai_cute_116: 814955761
+      ai_cute_104: 393412075
+      ai_cute_90: 1796922026
+      ai_cute_86: -302798811
+      ai_cute_112: -1627473837
+      ai_cute_130: -599635360
+      ai_cute_83: 943753474
+      ai_cute_155: 1411635237
+      ai_cute_157: -82855312
+      ai_cute_70: 1311677470
+      ai_cute_57: -1369787047
+      ai_cute_100: 1280349036
+      ai_cute_78: 1534594656
+      ai_cute_75: -1562524326
+      ai_cute_62: 465175041
+      ai_cute_126: -1897275731
+      ai_cute_55: 1625203326
+      ai_cute_60: 1118655230
+      ai_cute_113: 1575116377
+      ai_cute_121: 1125293644
+      ai_cute_37: 1748454923
+      ai_cute_93: 1241701890
+      ai_cute_68: -1642099405
+      ai_cute_162: 1551430623
+      ai_cute_163: -1748508616
+      ai_cute_69: 1183589154
+      ai_cute_11: 745148793
+      ai_cute_45: 943120872
+      ai_cute_150: 255372375
+      ai_cute_7: -957492888
+      ai_cute_3: 231869264
+      ai_cute_139: -2082558292
+      ai_cute_73: 967182332
+      ai_cute_167: -952065955
+      ai_cute_84: -842971982
+      ai_cute_101: 834480899
+      ai_cute_172: 327441806
+      ai_cute_123: 1186964799
+      ai_cute_65: -118219122
+      ai_cute_20: 51436704
+      ai_cute_39: 617452478
+      ai_cute_48: -1233456768
+      ai_cute_64: -279527322
+      ai_cute_145: -680186867
+      ai_cute_171: -748868019
+      ai_cute_128: -1380554927
+      ai_cute_61: -838916602
+      ai_cute_137: 727702105
+      ai_cute_91: 132244960
+      ai_cute_166: 821139976
+      ai_cute_50: -244615989
+      ai_cute_156: 993780544
+      ai_cute_158: 1987043830
+      ai_cute_25: -234487893
+      ai_cute_129: -1585301660
+      ai_cute_118: 667075774
+      ai_cute_140: 709109913
+      ai_cute_56: 995563905
+      ai_cute_147: 490370233
+      ai_cute_41: 1024365241
+      ai_cute_23: -1718332095
+      ai_cute_28: 1803635305
+      ai_cute_71: -588129170
+      ai_cute_161: 1858647772
+      ai_cute_47: -694193449
+      ai_cute_95: 686588704
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
